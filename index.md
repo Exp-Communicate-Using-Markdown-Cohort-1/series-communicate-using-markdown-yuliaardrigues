@@ -11,3 +11,8 @@ function saudacao(nome) {
 
 saudacao('Usuário');
 '''IMplementar
+
+
+- [x] Git 
+- [x] GitHub
+- [ ] eles nao 
